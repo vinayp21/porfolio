@@ -1,0 +1,17 @@
+.AboutMePage {
+  .about-me-section {
+    > .row {
+      margin: 0;
+    }
+    .menu {
+      margin: 0;
+      padding: 0;
+    }
+    .content {
+      margin: 0;
+      padding: 0;
+      background-color: #e8e8e8;
+      min-height: calc(100vh - 181px);
+    }
+  }
+}
